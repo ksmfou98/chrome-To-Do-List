@@ -1,1 +1,15 @@
-# chrome-To-Do-List
+# toDoList
+
+A clone of the productivity chrome app [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) on Vanilla JS
+
+## Features
+
+- [x] Clock
+- [x] To Do List
+- [x] Weather
+- [x] Daily Photo
+- [x] Offline Support
+
+## Try it out
+
+[https://ksmfou98.github.io/chrome-To-Do-List/](https://ksmfou98.github.io/chrome-To-Do-List/)
