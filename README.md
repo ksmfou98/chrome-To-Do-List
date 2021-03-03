@@ -6,12 +6,11 @@
 노마드코더의 강좌를 보고 크롬앱을 만들었다. 하지만 강좌에서는 To Do List, 날씨, 시계 기능만 추가한다.   
 추가 해보고 싶은 기능이 많아서 여러기능들을 추가해보려 한다
 
-<br/><br/>
 ## 접속 방법  
 
 [https://ksmfou98.github.io/chrome-To-Do-List/](https://ksmfou98.github.io/chrome-To-Do-List/)
 
-<br/><br/>
+
 ## 기능
 
 - 시계  
